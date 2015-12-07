@@ -10,6 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            string wat = "wat?";
+            System.Console.Out.WriteLine(wat);
         }
     }
 }
