@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             string wat = "wat?";
             System.Console.Out.WriteLine(wat);
+            string blah = "Hello World";
+            System.Console.Out.WriteLine(blah);
         }
     }
 }
